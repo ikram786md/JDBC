@@ -6,7 +6,7 @@ import java.sql.*;
 
  
 
-public class BatchProcessing 
+public class Batchprocessing 
 {
     public static void main(String[]args) throws SQLException
 {
